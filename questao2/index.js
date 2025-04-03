@@ -17,5 +17,4 @@ rl.question('Digite numero A: ', (n1) => {
             rl.close();       
         })
     })
-    
 });
